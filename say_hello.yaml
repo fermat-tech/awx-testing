@@ -3,4 +3,4 @@
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello!"
+        msg: "Hello! Testing Ansible AWX."
